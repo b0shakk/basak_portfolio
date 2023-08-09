@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swordfish ll
+* source:	https://sketchfab.com/3d-models/swordfish-ll-9765ea34680e4b6490378a017ad759a4
+* author:	Mr.Kimono (https://sketchfab.com/Mr.Kimono)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swordfish ll" (https://sketchfab.com/3d-models/swordfish-ll-9765ea34680e4b6490378a017ad759a4) by Mr.Kimono (https://sketchfab.com/Mr.Kimono) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
