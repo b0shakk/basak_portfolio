@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { logo, menu, close, lc } from "../assets";
+import { logo, menu, close, lc, linkedin } from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -47,9 +47,8 @@ const Navbar = () => {
             Basak Swarup&nbsp;
             <span className='sm:block hidden'> | &nbsp;its all downhill from here</span>
           </p>
-          <a href="https://leetcode.com/treffyxyz/">
-            <img src={lc} alt='lc' className='w-16 h-8 object-contain' />
-          </a>
+          
+          
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>

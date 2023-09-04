@@ -8,6 +8,7 @@ import www from "./www.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import lc from "./lc.png";
+import linkedin from "./linkedin.png";
 
 import css from "./tech/css.png";
 import cpp from "./tech/cpp.svg";
@@ -27,6 +28,7 @@ import threejs from "./tech/threejs.svg";
 import android from "./tech/android.svg";
 
 import vng from "./company/vng.jpeg";
+import bain from "./company/bain.png";
 import hacktu from "./company/hacktu.png";
 import faps from "./company/faps.jpeg";
 
@@ -66,5 +68,7 @@ export {
   vng,
   hacktu,
   faps,
-  lc
+  lc,
+  linkedin,
+  bain,
 };

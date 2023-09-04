@@ -26,6 +26,7 @@ import {
     vng,
     hacktu,
     faps,
+    bain,
   } from "../assets";
   
   export const navLinks = [
@@ -126,6 +127,18 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Technical Analyst",
+      company_name: "Bain and Co.",
+      icon: bain,
+      iconBg: "#383E56",
+      date: "January 2024 - June 2024",
+      points: [
+        "Upcoming Technical Analyst Intern.",
+        "Centre of Excellence: Technology and Cloud Services.",
+        "Tech Stack: Python, SQL, Tableau",
+      ],
+    },
     {
       title: "Application Developer",
       company_name: "VNG Medical [Arkeo]",
